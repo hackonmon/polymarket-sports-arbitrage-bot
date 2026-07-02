@@ -14,8 +14,6 @@
 
 </p>
 
-https://github.com/user-attachments/assets/40a78adc-e9b3-4ab2-a31d-8f4691648c8d
-
 ## Why Open Source?
 
 This repository is **not a commercial product**.
